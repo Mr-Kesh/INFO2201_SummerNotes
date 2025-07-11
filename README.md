@@ -1,2 +1,2 @@
-# INFO2201_SummerNotes
+# INFO2201 Summer Notes
 Notes from Class
